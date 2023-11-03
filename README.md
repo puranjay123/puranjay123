@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puranjay123" alt="puranjay123" /></a> </p>
 
-- 🔭 I’m currently working on **Medium Clone-with Blog Recommendation**
+- 🔭 I’m currently working on **Segment Anything Model**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **MlOps**
 
 - 💬 Ask me about **Python, Machine Learning ,Deep Learning**
 
